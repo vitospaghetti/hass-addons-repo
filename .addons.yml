@@ -1,7 +1,7 @@
 ---
 channel: stable
 addons:
-  authelia:
+  metube:
     repository: vitospaghetti/metube-hass-addon
     target: metube
     image: ghcr.io/alexta69/metube
