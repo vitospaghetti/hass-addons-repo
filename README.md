@@ -1,4 +1,4 @@
-# Benoit Anastay Add-ons
+# Vito Spaghetti Add-ons
 
 ## About
 
@@ -17,7 +17,7 @@ Home Assistant add-on store, a possibility to add a repository is provided.
 Use the following URL to add this repository:
 
 ```txt
-https://github.com/BenoitAnastay/home-assistant-addons-repository
+https://github.com/vitospaghetti/hass-addon-repo
 ```
 
 ## Releases
@@ -38,7 +38,7 @@ For a general repository issue or add-on ideas [open an issue here][issue]
 
 MIT License
 
-Copyright (c) 2017-2023 Benoit Anastay
+Copyright (c) 2017-2023 Vito Spaghetti
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
