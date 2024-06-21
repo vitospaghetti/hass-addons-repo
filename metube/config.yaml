@@ -1,0 +1,25 @@
+name: Metube
+version: 0.1.0
+slug: metube
+url: https://github.com/alexta69/metube/
+init: false
+description: Metube is web front end to yt-dlp
+webui: http://[HOST]:[PORT:82]
+stage: experimental
+arch:
+- aarch64
+- amd64
+ports:
+  82/tcp: 80
+map:
+- addon_config:rw
+options:
+  domain: exemple.com
+schema:
+  domain: str
+  smtp_username: str?
+  smtp_password: str?
+  smtp_sender: str?
+  smtp_host: str?
+  smtp_port: str?
+image: ghcr.io/vitospaghetti/metube/{arch}

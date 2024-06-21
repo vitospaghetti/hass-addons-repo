@@ -2,6 +2,6 @@
 channel: stable
 addons:
   authelia:
-    repository: BenoitAnastay/authelia-home-assistant-addon
-    target: authelia
-    image: ghcr.io/benoitanastay/authelia/{arch}
+    repository: vitospaghetti/metube-hass-addon
+    target: metube
+    image: ghcr.io/vitospaghetti/metube/{arch}
