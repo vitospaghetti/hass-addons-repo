@@ -1,3 +1,3 @@
 ## What’s changed
 
-- 🐛 Fix start script permissions @BenoitAnastay ([#3](https://github.com/BenoitAnastay/authelia-home-assistant-addon/pull/3))
+- 🐛 Initial release for testing and building - WIP

@@ -4,4 +4,4 @@ addons:
   authelia:
     repository: vitospaghetti/metube-hass-addon
     target: metube
-    image: ghcr.io/vitospaghetti/metube/{arch}
+    image: ghcr.io/alexta69/metube
